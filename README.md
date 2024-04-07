@@ -31,5 +31,5 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/KolluruPujitha/Correlation_Regression/assets/150231340/e3961186-7d94-4d45-827e-34649beee087)
 
 # Result
-The code is executed sucesfully.
+The code is executed sucessfully.
 
